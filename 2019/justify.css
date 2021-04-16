@@ -1,0 +1,53 @@
+body {
+ text-align: justify}
+
+#justify {
+text-align: justify
+}
+
+#center {
+text-align: center}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+ 
+.book .book-header h1 {
+opacity: 1;
+text-align: left;
+color: #4da6ff;
+}
+.book h1 {
+opacity: 1;
+text-align: left;
+color: #4da6ff;
+}
+
+.book h2 {
+opacity: 1;
+text-align: left;
+color: #4da6ff;
+}
+
+.book h3 {
+opacity: 1;
+text-align: left;
+color: #4da6ff;
+}
+
+.book sup{
+color: #4da6ff;
+}
